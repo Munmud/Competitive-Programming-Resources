@@ -1,6 +1,11 @@
 
 ### ম্যাথ ও নাম্বার থিওরী
 
+* Video Playlist
+   * [Code NCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
+   * [LoveExtendsCode](https://www.youtube.com/playlist?list=PLgLCjVh3O6Si82JG4dSp6iSQQnXBM3wjT)
+
+
 * প্রাইম নাম্বার (Prime Number)
     * [প্রাইম জেনারেটর (Sieve of Eratosthenes)](http://www.shafaetsplanet.com/planetcoding/?p=624) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [প্রাইম জেনারেশন – সিভ অব ERATOSTHENES](http://shoshikkha.com/archives/2332) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
